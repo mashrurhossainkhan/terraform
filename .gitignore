@@ -1,0 +1,4 @@
+.terraform
+/aws/.terraform
+/aws/.terraform.lock.gcl
+.terraform.lock.gcl

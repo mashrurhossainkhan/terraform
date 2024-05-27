@@ -1,0 +1,11 @@
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+terraform validate
+terraform fmt
+terraform import
+terraform output
+terraform refresh
+terraform state
+terraform workspace #dev/prod/staging
